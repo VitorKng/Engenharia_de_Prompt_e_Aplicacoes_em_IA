@@ -1,5 +1,4 @@
-# Aula-003
-Engenharia de Prompt e Aplicações em IA
+# Engenharia de Prompt e Aplicações em IA
 
 ##  Tema: Estruturas de Repetição
 
