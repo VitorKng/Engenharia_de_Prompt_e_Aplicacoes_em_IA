@@ -1,6 +1,6 @@
 # Engenharia de Prompt e Aplicações em IA
 
-##  Tema: Estruturas de Repetição
+##  Aula - 03 - Tema: Estruturas de Repetição
 
 ###  Pergunta Fácil:
 
