@@ -3,7 +3,7 @@ Engenharia de Prompt e Aplicações em IA
 
 ##  Tema: Estruturas de Repetição
 
-###  Prompt Fácil:
+###  Pergunta Fácil:
 
    *1. Eu preciso trocar o pneu do meu carro, como fazer?*
 
@@ -21,7 +21,7 @@ Aperto final: Abaixe o carro até que o pneu toque o chão. Retire o macaco e ag
 
 Dica importante: Lembre-se de levar o pneu furado ao borracheiro logo em seguida e verifique se o seu estepe é de "uso temporário" (que limita a velocidade a 80 km/h).
 
-###  Prompt Médio:
+###  Pergunta Média:
 
    *2. Eu preciso trocar o pneu do meu carro em um terreno de pequenas depressões no solo e lama, como fazer?*
 
@@ -44,7 +44,7 @@ Roda de segurança: Assim que retirar o pneu furado, coloque-o deitado embaixo d
 IV. Dicas Extras para Lama
 Calibragem: Se o carro estiver com dificuldade de tração para sair do local após a troca, você pode reduzir levemente a pressão dos pneus (para cerca de 18-25 libras) para aumentar o contato com o solo, mas recalibre assim que chegar ao asfalto.
 
-###  Prompt Complexo:
+###  Pergunta Complexa:
 
    *3. Eu preciso trocar o pneu do meu carro Jetta TSI 2.0 Turbo mas em um terreno de pequenas depressões no solo e lama acabei perdendo 3 (três) parafusos, o que fazer?*
 
